@@ -26,3 +26,6 @@ This circuit will help the user to build their own automation for the real-time 
 
 ![WhatsApp Image 2022-05-22 at 8 04 25 PM](https://user-images.githubusercontent.com/61703896/169700616-69e60630-d712-4404-9a70-922be079dc24.jpeg)
 
+
+## you can get the PDF for this circuit
+[esp wifi control.pdf](https://github.com/veerankitarun/Made-very-own-professional-PCB-design-/files/8749645/esp.wifi.control.pdf)
